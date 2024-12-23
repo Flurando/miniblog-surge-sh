@@ -1,0 +1,7 @@
+(post
+ :title "可怕"
+ :date (make-date* 2024 11 26)
+
+ (h1 [作业还是其他？])
+
+ (p [gnu打不开看不了guile的manual，浪费了我半天，刚刚才打开:(]))

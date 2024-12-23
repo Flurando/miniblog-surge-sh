@@ -1,0 +1,8 @@
+(post
+ :title "题目"
+ :date (make-date* 0000 12 00)
+ :tags '("any" "好事")
+
+ (h1 [标题])
+
+ (p [段落]))

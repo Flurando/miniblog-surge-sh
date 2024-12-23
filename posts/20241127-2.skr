@@ -1,0 +1,8 @@
+(post
+ :title "突发事件"
+ :date (make-date* 2024 11 27)
+ :tags '("坏事")
+
+ (h1 [今天刚更新完guix])
+
+ (p [emacs就输入不了中文了，估计是更换locale包后emacs还指向原来的导致获取不到中文编码，只能用内置的ASCII。]))
